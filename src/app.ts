@@ -32,7 +32,7 @@ let objetos: object[] = [{ nombre: "Peter", apellido: "Pan" }, { nombre: "Peter"
 let arrayDeArrays: number[][] = [[1, 2, 3], [4, 5, 6]]
 
 // Tipo Tupla
-let numerosImparesMenoresAcinco: [number, number, boolean] = [1, 2, false]
+let numerosImparesMenoresAcinco: [number, number] = [1, 3]
 
 // Tipo Objeto
 let persona: { nombre: string, apellido: string, edad?: number } = { nombre: "Peter", apellido: "Pan" }
