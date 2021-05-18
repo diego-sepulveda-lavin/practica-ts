@@ -1,0 +1,23 @@
+{
+  "name": "practica-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.ts",
+  "scripts": {
+    "build": "tsc",
+    "start": "node ./dist/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diego-sepulveda-lavin/practica-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diego-sepulveda-lavin/practica-ts/issues"
+  },
+  "homepage": "https://github.com/diego-sepulveda-lavin/practica-ts#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
+}
